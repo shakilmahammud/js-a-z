@@ -1,0 +1,14 @@
+/*
+for(init,conditon,incre/decrement){
+    //statement
+}*/
+/*
+while(conditon){
+    //statement
+    //incre/decrement
+}*/
+/*
+do{
+    //statement
+    //incre/decrement
+}while(conditon)*/
