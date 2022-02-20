@@ -46,3 +46,17 @@
 // var arr1=['a','b','c','d'];  
 // var arr2=[1,2,3,4];  
 // var newArr=arr1.flatMap((arr1,index)=>[arr1,arr2[index]]); //It will map and flatten arr1 and arr2.  
+
+// var arr=Array.from("You are viewivar arr=Array.from("You are viewing an example of string"); //The string will get converted to an array.  ng an example of string"); //The string will get converted to an array.  
+// var arr=["AngularJS","Node.js","JQuery"];  
+// var result=arr.fill("Bootstrap");  
+// var result=arr.fill("Bootstrap",1);  
+// var result=arr.fill("Bootstrap",0,2);  
+// var marks=[50,40,45,37,20];  
+  
+// function check(value)  
+// {  
+//   return value>30;    
+// }  
+  
+// console.log(marks.filter(check)); 
