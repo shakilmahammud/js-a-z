@@ -60,3 +60,16 @@
 // }  
   
 // console.log(marks.filter(check)); 
+// var arr=[5,22,19,25,34];  
+// var result=arr.find(x=>x>20);  
+// console.log(result)
+// var arr=[5,22,19,25,34];  
+// var result=arr.findIndex(x=>x>20);  
+// console.log(result)
+
+// array.forEach(callback(currentvalue,index,arr),thisArg)  
+// var arr = ["C", "C++", "Python"];  
+  
+// arr.forEach(function(fetch) {  
+//   console.log(fetch);  
+// });  
