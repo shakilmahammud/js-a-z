@@ -89,3 +89,20 @@
 // var arr=["AngularJs","Node.js","JQuery"]  
 // var result=arr.join()  
 // console.log(result); 
+// let arr=['Mon','Tue','Wed','Thu','Sat'];   
+// let itr=arr.keys();
+// console.log(itr);   
+// var arr=["C","C++","Python","C++","Java"];  
+// var result= arr.lastIndexOf("C++"); 
+// console.log(result);  
+// let arr=[2.1,3.5,4.7];  
+// let result=arr.map(Math.round); 
+// console.log(result);
+
+// console.log(Array.of(1,2,3,4)); //values separated by commas.  
+
+//push method it's add new  element last position in array
+//pop method it's  delete element last position in array
+// var arr=["AngulaJS","Node.js","JQuery"];  
+// var rev=arr.reverse();  
+// console.log(rev);
