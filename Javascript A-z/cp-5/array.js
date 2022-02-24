@@ -105,4 +105,13 @@
 //pop method it's  delete element last position in array
 // var arr=["AngulaJS","Node.js","JQuery"];  
 // var rev=arr.reverse();  
-// console.log(rev);
+// console.log(rev)
+// let arr = [1,2,3,4,5,6,7,8]
+
+// arr.unshift(9) // unshift method add element 1st position in array
+// arr.splice(index,remove data number,insert data)
+// arr.splice(2,0,10) //this line insert 10 in 2 number index
+// arr.pop() //this lin delete last element in array
+// arr.shift() //this lin delete 1st element in array
+// arr.splice(2,1) //this lin delete 2no index element in array
+// console.log(arr)
