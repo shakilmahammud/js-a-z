@@ -115,3 +115,6 @@
 // arr.shift() //this lin delete 1st element in array
 // arr.splice(2,1) //this lin delete 2no index element in array
 // console.log(arr)
+// var arr=["ram","shyam","Heera"]; // an array is defined.  
+// var str=arr.toLocaleString(); //using array toLocaleString() method  
+// console.log(arr)
