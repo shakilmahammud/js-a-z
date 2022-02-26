@@ -118,3 +118,6 @@
 // var arr=["ram","shyam","Heera"]; // an array is defined.  
 // var str=arr.toLocaleString(); //using array toLocaleString() method  
 // console.log(arr)
+// var arr = ["John","Mary","Tom","Harry","Sheero"]; //Intializing array elements  
+// var itr = arr.values(); //Using values() method. 
+// console.log(arr) 
