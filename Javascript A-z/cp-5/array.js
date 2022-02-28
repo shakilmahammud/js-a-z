@@ -121,3 +121,9 @@
 // var arr = ["John","Mary","Tom","Harry","Sheero"]; //Intializing array elements  
 // var itr = arr.values(); //Using values() method. 
 // console.log(arr) 
+
+let a = [10,5]; 
+// let b = a;
+// b[0] = 3; this line replace a 0 index value
+// let b = Array.from(a);
+b[0] = 3;
