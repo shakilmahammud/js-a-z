@@ -40,3 +40,32 @@
 //   object2.property1 = 33;  
 //   // Throws an error in strict mode  
 //   console.log(object2.property1);  
+
+
+// const object1 = {  
+//     property1: 42  
+//   }  
+//   const object2 = {  
+//     property2: 34  
+//   }  
+//   const descriptor1 = Object.getOwnPropertyDescriptor(object1, 'property1');  
+//   const descriptor2 = Object.getOwnPropertyDescriptor(object2, 'property2');  
+//   console.log(descriptor1.enumerable);  
+
+// const object1 = {  
+//     property1: 22  
+//   };  
+//   const descriptors1 = Object.getOwnPropertyDescriptors(object1);  
+//   console.log(descriptors1.property1.value);  
+
+
+// const object1 = {  
+//     property1: 42  
+//   };  
+//   const object2 = {  
+//     property2: 23  
+//   };  
+    
+//   const descriptors1 = Object.getOwnPropertyDescriptors(object1);  
+//   const descriptors2 = Object.getOwnPropertyDescriptors(object2);  
+//   console.log(descriptors1.property1.writable);  
