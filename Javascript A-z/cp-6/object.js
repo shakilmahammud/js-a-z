@@ -69,3 +69,25 @@
 //   const descriptors1 = Object.getOwnPropertyDescriptors(object1);  
 //   const descriptors2 = Object.getOwnPropertyDescriptors(object2);  
 //   console.log(descriptors1.property1.writable);  
+
+
+// const object1 = {};  
+//  a = Symbol('a');  
+//  b = Symbol.for('b');  
+// const objectSymbols = Object.getOwnPropertySymbols(object1);  
+// console.log(objectSymbols.length);  
+// let animal = {  
+//     eats: true  
+//   };  
+//      // create a new object with animal as a prototype  
+//   let rabbit = Object.create(animal);  
+//   alert(Object.getPrototypeOf(rabbit) === animal); // get the prototype of rabbit 
+// const object1 = {};  
+// console.log(Object.is(object1));  
+// const object1 = {  
+//     property1: 56  
+//   };  
+//   console.log(Object.is(object1));  
+    
+//   Object.seal(object1);  
+//   console.log(Object.isSealed(object1));   
