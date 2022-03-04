@@ -30,3 +30,7 @@ var c = a.concat(b)
 // console.log(b.toLowerCase());
 // console.log('  shakil  '.trim());
 // console.log(c.split(' '));
+// var str="Javatpoint";  
+// console.log(str.charAt(4));  
+// var x="Javatpoint";  
+// console.log(x.charCodeAt());//It will return Unicode value of 'J'  
