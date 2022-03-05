@@ -30,7 +30,27 @@ var c = a.concat(b)
 // console.log(b.toLowerCase());
 // console.log('  shakil  '.trim());
 // console.log(c.split(' '));
-// var str="Javatpoint";  
+// var str="me";  
 // console.log(str.charAt(4));  
-// var x="Javatpoint";  
+// var x="me";  
 // console.log(x.charCodeAt());//It will return Unicode value of 'J'  
+// var web="Learn JavaScript on me";  
+// console.log(web.lastIndexOf('a'));  
+// var web="Learn me on me";  
+// console.log(web.lastIndexOf('a',22));  
+// var str="JavaScript is a scripting language. Scripting languages are often interpreted";  
+// console.log(str.search("scripting"));  
+
+// var str="JavaScript is a scripting language. Scripting languages are often interpreted";  
+// console.log(str.search(/Scripting/)); 
+// var str="JavaScript is a scripting language. Scripting languages are often interpreted";  
+// console.log(str.search(/Javatpoint/)); 
+// var str="Javatpoint";  
+// console.log(str.match("Java"));  
+// var str=" Learn Node.js on Javatpoint. Node.js is a well-known JavaScript framework.";  
+// console.log(str.replace(/Node.js/g,"AngularJS"));  
+// var str="Javatpoint";  
+// console.log(str.substring(4,5));  
+
+// var str="Javatpoint";  
+// console.log(str.substring(5));  
