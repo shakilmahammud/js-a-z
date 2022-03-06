@@ -54,3 +54,17 @@ var c = a.concat(b)
 
 // var str="Javatpoint";  
 // console.log(str.substring(5));  
+
+// var date=new Date();  
+// console.log("Today's day: "+date.getDate());  
+// var year=new Date();  
+// console.log("Year value : "+year.getUTCFullYear());  
+
+// var milli =new Date("August 15, 1947 20:22:10:565");  
+// console.log(milli.getMilliseconds());  
+
+// var min=new Date("August 15, 1947 20:22:10");  
+// console.log(min.getMinutes());  
+
+// var sec=new Date("August 15, 1947 20:22:10");  
+// console.log(sec.getSeconds());  
