@@ -68,3 +68,22 @@ var c = a.concat(b)
 
 // var sec=new Date("August 15, 1947 20:22:10");  
 // console.log(sec.getSeconds());  
+
+// var str = "JAVATPOINT";  
+// console.log(str.toLowerCase());
+
+// var str=new String("Javatpoint")  
+// console.log(str.toString());  
+
+// var str="Javatpoint";  
+// console.log(str.valueOf());  
+
+
+// var str=new String("Javatpoint");  
+// console.log(str.valueOf());  
+
+// var str="Javatpoint";  
+// console.log(str.valueOf());  
+
+// var str=new String("Javatpoint");  
+// console.log(str.valueOf());  
