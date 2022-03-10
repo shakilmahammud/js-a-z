@@ -28,3 +28,12 @@ console.log(60.789)
 console.log('My Fav No: ' + 9)
 console.log(9 + 9)
 console.log('9' + 9)
+
+//variable write rules
+ //#not use special characters
+ //#not use built in js special names
+ //#not start variablename use number 
+ //#not use space in variable name
+ //# js variable is case-sensitive
+ //# not use hyphen (-) in variable name
+ 
