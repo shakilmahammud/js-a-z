@@ -14,3 +14,6 @@ console.log(Math.sqrt(9))
 console.log(Math.sqrt(64))
 console.log(Math.round(Math.random() * 50 + 1))
 
+// Math.hypot([num1[, num2[, ...]]])  
+ z = 20;
+ console.log(z)
